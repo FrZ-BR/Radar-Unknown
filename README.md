@@ -3,7 +3,7 @@ Big thanks to [@AiYinZiLeGong](https://github.com/AiYinZiLeGong) (such a genius)
 
 I'm not a prof. programmer, just a noob learns to code. I don't even know the difference between _val_ and _var_. So feel free to optimize my shitty code.
 
-And this is a personal programme based on my usage habit just for fun, so I don't have the ability to slove all your problems or requests. But you can get help from [here](https://github.com/AiYinZiLeGong/PUBG-Radar/issues).
+As this is a personal programme based on my usage habit just for fun, I don't have the ability to slove all your problems or requests. But you can get help from [here](https://github.com/AiYinZiLeGong/PUBG-Radar/issues).
 
 <br />
 
